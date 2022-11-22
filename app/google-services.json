@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773136810071",
+    "firebase_url": "https://btfirebase-7a1ab-default-rtdb.firebaseio.com",
+    "project_id": "btfirebase-7a1ab",
+    "storage_bucket": "btfirebase-7a1ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773136810071:android:c1fae6cfcc95ace8d6a312",
+        "android_client_info": {
+          "package_name": "com.example.btfirebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773136810071-kr33amhgl02s6jgcq3oc5vk3843vh03k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq5AK42gAJ-R5v2bG6OwmP5BKuAZJeInc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773136810071-kr33amhgl02s6jgcq3oc5vk3843vh03k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
